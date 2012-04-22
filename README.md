@@ -12,4 +12,5 @@ You can also clone this repository and install the wallpaper directly on your ph
 Copyright and License
 ---------------------
 Copyright (c) 2012 Dominik Raymann
+
 This software is licensed under the MIT license: http://www.opensource.org/licenses/MIT
